@@ -1,0 +1,28 @@
+_repo: The-Radio-Gunner_67038
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Forbes, Alexander
+    birthdate: 1882
+    deathdate: 1965
+    gutenberg_agent_id: '54023'
+    url: http://www.gutenberg.org/2009/agents/54023
+description: ''
+gutenberg_issued: '2021-12-29'
+identifiers:
+  gutenberg: '67038'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=umn.31951001998725c
+pgterms:marc905: 20211006045123forbes
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: United States :Houghton Mifflin Company,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Radio Gunner
+url: http://www.gutenberg.org/ebooks/67038
