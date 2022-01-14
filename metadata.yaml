@@ -1,5 +1,8 @@
 _repo: The-Radio-Gunner_67038
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67038-h/images/cover.jpg
 creator:
   author:
     agent_name: Forbes, Alexander
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54023'
     url: http://www.gutenberg.org/2009/agents/54023
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67038#The-Radio-Gunner
 gutenberg_issued: '2021-12-29'
 identifiers:
   gutenberg: '67038'
